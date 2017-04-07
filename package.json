@@ -1,0 +1,23 @@
+{
+  "name": "watch-shop",
+  "version": "1.0.0",
+  "description": "watch store universal",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotlocalhost/watch-shop.git"
+  },
+  "keywords": [
+    "angular",
+    "universal"
+  ],
+  "author": "iot.localhost@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iotlocalhost/watch-shop/issues"
+  },
+  "homepage": "https://github.com/iotlocalhost/watch-shop#readme"
+}
